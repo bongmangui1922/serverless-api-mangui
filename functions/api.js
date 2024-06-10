@@ -9,7 +9,7 @@ const app = express();
 // your mongoDB Cloud URL
 
 const dbCloudUrl =
-'mongodb+srv://Mawi:Mawi21@cluster0.twni9tv.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0'; // your mongoDB Cloud URL
+'mongodb+srv://bongmangui2022:jXI19hInfhTrPqTk@cluster0.ro0kxrf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'; // your mongoDB Cloud URL
 
 const dbLocalUrl = 'mongodb://localhost:27017/authors';
 
